@@ -1,12 +1,7 @@
-
-<body>
-
-
-<p> gin
+gin
 tonic
 rose
 white wine
 sparkling
-</p>
-
-</body>
+prosecco
+vodka
