@@ -4,3 +4,5 @@ crisps
 burgers
 buns
 chips
+guacamole
+salsa
