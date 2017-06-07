@@ -6,3 +6,6 @@ buns
 chips
 biscuits
 bananas
+guacamole
+salsa
+
