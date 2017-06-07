@@ -3,3 +3,4 @@ pasta
 crisps
 burgers
 buns
+chips
